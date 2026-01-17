@@ -191,7 +191,7 @@ birthday=15/03/1985
 
 📋 **Step 1:** Copy the text above
 
-🔗 **Step 2:** [Click here to open Contact Generator](YOUR_HOSTED_URL_HERE)
+🔗 **Step 2:** [Click here to open Contact Generator](https://xapids.github.io/Contact-File-Generator/)
 
 📝 **Step 3:** Paste the data into the tool
 
@@ -272,7 +272,7 @@ Your output must be copyable key=value pairs that the web tool can parse. Always
 ### Step 4: Update URL Later
 After you host the HTML tool (next step), you'll need to update this line in the instructions:
 ```
-🔗 **Step 2:** [Click here to open Contact Generator](YOUR_HOSTED_URL_HERE)
+🔗 **Step 2:** [Click here to open Contact Generator](https://xapids.github.io/Contact-File-Generator/)
 ```
 
 Replace `YOUR_HOSTED_URL_HERE` with your actual hosted URL.
